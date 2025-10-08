@@ -8,4 +8,4 @@ This dataset contains images of tobacco impurities for research and development 
 
 - **mixData** folder contains 524 images of mixed impurities.
 - **pureData** folder contains 544 images of pure impurities.
-- `classes.txt` files indicate the impurity class labels.
+- The file `classes.txt` lists all the impurity categories included in the dataset.
