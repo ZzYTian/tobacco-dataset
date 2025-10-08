@@ -1,0 +1,9 @@
+cardboard
+chickenFeather
+grass
+hempRope
+plasticFilm
+plasticFoam
+plasticRope
+whiteThread
+wormCocoon
